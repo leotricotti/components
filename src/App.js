@@ -1,7 +1,7 @@
-import Gallery from "./components/Gallery";
+import "./index.css";
 
 function App() {
-  return <Gallery />;
+  return;
 }
 
 export default App;
